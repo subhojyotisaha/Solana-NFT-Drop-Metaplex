@@ -345,7 +345,8 @@ const CandyMachine = ({ walletAddress }) => {
 
   useEffect(() => {
     getCandyMachineState();
-  });
+    // eslint-disable-next-line
+  }, []);
 
   // Create render function
   const renderDropTimer = () => {
