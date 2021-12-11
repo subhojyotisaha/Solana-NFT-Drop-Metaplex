@@ -1,0 +1,19 @@
+{
+  "name": "Meme Subho",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DBTvSdHanPjWsHuREXkRd8GKsJkjowCs68wLzEdNWGKP",
+        "share": 100
+      }
+    ]
+  }
+}
